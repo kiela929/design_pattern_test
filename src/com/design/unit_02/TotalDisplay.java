@@ -29,7 +29,7 @@ public class TotalDisplay implements Observer, DisplayElement{
 		this.totalTemperature+=temperature;
 		this.totalHumidity+= humidity;
 		this.display();
-		this.count++;
+		this.count++; //카운트 변수 추가
 		
 	}
 
