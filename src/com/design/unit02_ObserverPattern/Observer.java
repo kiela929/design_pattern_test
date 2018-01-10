@@ -1,4 +1,4 @@
-package com.design.unit_02;
+package com.design.unit02_ObserverPattern;
 
 /*
  * 옵저버 인터페이스

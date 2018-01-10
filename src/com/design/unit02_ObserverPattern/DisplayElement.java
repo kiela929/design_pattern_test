@@ -1,4 +1,4 @@
-package com.design.unit_02;
+package com.design.unit02_ObserverPattern;
 
 /*
  * 디스플레이 인터페이스
