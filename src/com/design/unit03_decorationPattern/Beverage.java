@@ -6,4 +6,5 @@ public abstract class Beverage {
         return description;
     }
     public abstract double cost();
+    //추상 메서드로 각각에 맞게 구현한다. 추가 구성이 있을 수 있으므로!
 }
